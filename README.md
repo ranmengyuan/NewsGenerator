@@ -21,7 +21,7 @@ src contains all source code.
 dictionary is a dictionary that is used to find the sentence that describe Goals.
 
 # Supported Platforms
-NewsGenerator is based on JavaSE-1.8. If you want to operate score, you should download a Java interpreter and some package of java, such as
+NewsGenerator is based on JavaSE-1.8. If you want to operate NewsGenerator, you should download a Java interpreter and some package of java, such as
 mysql-connector etc..And you should also pay attention to the form of the file that you want to deal.
 
 # Problems
