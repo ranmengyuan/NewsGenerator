@@ -4,7 +4,7 @@ NewsGenerator put forward the method of establishing the corpus and analyzing th
 
 # Getting started
 
-NewsGenerator is contains DAO, BEAN, HELPER, News, ToDatabase, Main and more.
+NewsGenerator contains DAO, BEAN, HELPER, News, ToDatabase, Main and more.
 
 DAO, BEAN, HELPER and ToDatabase are used to control database.
 
