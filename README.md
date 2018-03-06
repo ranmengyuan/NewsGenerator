@@ -1,6 +1,6 @@
 # NewsGenerator
 
-NewsGenerator put forward the method of establishing the corpus and analyzing the structure of the sentence for the automatic generation of sports news. The method is to crawl millions of existing sports news in sports websites such as Sina Sports. At the same time ,analyze the structure of each sentence by LD algorithm, keyword and semantic analysis. And the use of decision-making table makes the sentence more diverse, rich, the establishment of the corpus. From the sports live text script to the sports news automatically generated experimental tests and ROUGE value to evaluate the system generated.
+NewsGenerator put forward the method of establishing the corpus and analyzing the structure of the sentence for the automatic generation of sports news. The method is to crawl millions of existing sports news in sports websites such as Sina Sports. At the same time ,analyzing the structure of each sentence by LD algorithm, keyword and semantic analysis. And the use of decision-making table makes the sentence more diverse, rich, the establishment of the corpus. From the sports live text script to the sports news automatically generated experimental tests and ROUGE value to evaluate the system generated.
 
 # Getting started
 
